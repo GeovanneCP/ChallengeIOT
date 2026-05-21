@@ -1,4 +1,4 @@
-# Clyvo Care – Monitoramento Preditivo e Adesão Veterinária 🐾
+# Clyvo Companion – Monitoramento Preditivo e Adesão Veterinária 🐾
 ### Sprint 1 - Disruptive Architectures: IoT, IoB & Generative IA
 
 ---
