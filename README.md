@@ -4,7 +4,7 @@
 ---
 
 ## 📋 Sobre o Projeto
-O **Clyvo Care** é uma plataforma focada na continuidade clínica e preventiva para o mercado pet (B2B). O sistema resolve um dos grandes gargalos das clínicas veterinárias: o abandono de tratamentos pós-operatórios e a dificuldade dos tutores em identificar sintomas sutis de complicações.
+O **Clyvo Conpanion** é uma plataforma focada na continuidade clínica e preventiva para o mercado pet (B2B). O sistema resolve um dos grandes gargalos das clínicas veterinárias: o abandono de tratamentos pós-operatórios e a dificuldade dos tutores em identificar sintomas sutis de complicações.
 
 Esta vertente do ecossistema compreende o **Protótipo de IoT**, desenvolvido para monitorar em tempo real a temperatura corporal de animais em recuperação cirúrgica. Os dados coletados são enviados diretamente para a nuvem através de protocolos IoT e consolidados em um Dashboard analítico e preditivo voltado para o corpo médico da clínica.
 
